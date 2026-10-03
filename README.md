@@ -30,3 +30,7 @@ Le projet se concentre sur l'utilisation du langage HTML pour effectuer les mise
 - Compréhension du HTML: Apprentissage et application des fondamentaux du langage HTML.
 - Modification et mise à jour de sites web: Capacité à mettre à jour et à modifier des éléments sur une page web existante.
 - Utilisation de CSS dans le HTML: Compétence dans l'application de styles CSS préexistants à de nouveaux éléments HTML.
+
+## Setup and maintenance guide
+
+See the [project guide](docs/PROJECT_GUIDE.md) for repository-specific setup, commands, configuration, implementation limits and verification steps.
